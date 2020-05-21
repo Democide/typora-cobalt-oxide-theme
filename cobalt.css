@@ -81,7 +81,7 @@ body {
     margin-top: 30px;
 }
 
-a {
+a, strong, em, mark {
     color: #71bfd9;
 }
 
