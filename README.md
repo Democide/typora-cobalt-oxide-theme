@@ -1,6 +1,9 @@
 # Cobalt Oxide theme for Typora
-Based on the [Cobalt Theme](https://github.com/elitistsnob/typora-cobalt-theme) created by [Kent Pribbernow](https://www.github.com/elitistsnob). Which in turn was inspired by Wes Bos's [Cobalt](https://www.github.com/wesbos) theme for Sublime.
+A dark theme for Typora, a multi-platform Markdown Editor. Directly based on the [Cobalt Theme](https://github.com/elitistsnob/typora-cobalt-theme) created by [Kent Pribbernow](https://www.github.com/elitistsnob). Which in turn was inspired by Wes Bos's [Cobalt](https://www.github.com/wesbos) theme for Sublime.
 
+**WARNING: THIS IS A WORK IN PROGRESS. USE AT YOUR OWN RISK!**
+
+## Changes to Cobalt
 This version of the theme has the following changes:
 
 - A different splash screen
@@ -8,10 +11,13 @@ This version of the theme has the following changes:
 - Provides some improvements to the sidebar 
 - Properly colors the menus as well
 
-![Latest Release Version](https://img.shields.io/github/v/release/democide/typora-cobalt-oxide-theme)
-![Latest Release Date](https://img.shields.io/github/release-date/democide/typora-cobalt-oxide-theme)
-![Download Count](https://img.shields.io/github/downloads/democide/typora-cobalt-oxide-theme/total)
+## Installation
 
+1. Download the zipped project package or the [latest stable release](https://github.com/democide/typora-cobalt-oxide-theme/releases).
+2. Launch Typora and open `Preferences` from the app menu.
+3. Go to the `Appearance` tab, and choose `Open Theme Folder`.
+4. Copy the `cobalt-oxide.css` file and `cobalt-oxide` folder to your Typora theme library.
+5. Launch or restart Typora and choose `Cobalt Oxide` from the theme menu.
 
 ![Splash screen](images/screenshot1.png)
 
