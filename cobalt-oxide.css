@@ -29,28 +29,28 @@
     font-family: 'Nunito';
     font-style: normal;
     font-weight: normal;
-    src: local("Nunito Sans Regular"), url("./cobalt/nunito/NunitoSans-Regular.woff") format("woff");
+    src: local("Nunito Sans Regular"), url("./cobalt-oxide/nunito/NunitoSans-Regular.woff") format("woff");
 }
 
 @font-face {
     font-family: 'Nunito';
     font-style: italic;
     font-weight: normal;
-    src: local("Nunito Sans It"), url("./cobalt/nunito/NunitoSans-Italic.woff") format("woff");
+    src: local("Nunito Sans It"), url("./cobalt-oxide/nunito/NunitoSans-Italic.woff") format("woff");
 }
 
 @font-face {
     font-family: 'Nunito';
     font-style: normal;
     font-weight: bold;
-    src: local("Nunito Sans Bold"), url("./cobalt/nunito/NunitoSans-ExtraBold.woff") format("woff");
+    src: local("Nunito Sans Bold"), url("./cobalt-oxide/nunito/NunitoSans-ExtraBold.woff") format("woff");
 }
 
 @font-face {
     font-family: 'Nunito';
     font-style: italic;
     font-weight: bold;
-    src: local("Nunito Sans Bold Italic"), url("./cobalt/nunito/NunitoSans-ExtraBoldItalic.woff") format("woff");
+    src: local("Nunito Sans Bold Italic"), url("./cobalt-oxide/nunito/NunitoSans-ExtraBoldItalic.woff") format("woff");
 }
 
 html {
@@ -1003,7 +1003,7 @@ input {
 
 #write>p:first-child:not(:only-child)::before,
 #write>p:only-child::before {
-    background: url("cobalt/splash.png") no-repeat 45% 90% transparent;
+    background: url("cobalt-oxide/splash.png") no-repeat 45% 90% transparent;
     background-size: cover;
     bottom: 0;
     content: '';
