@@ -9,6 +9,7 @@ This version of the theme has the following changes:
 - A different splash screen
 - Adding colors to italic and strong text
 - Provides some improvements to the sidebar 
+- Fixing the width on quotes and lists
 - Properly colors the menus as well
 
 ## Installation
