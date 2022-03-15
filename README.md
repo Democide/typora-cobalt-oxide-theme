@@ -1,5 +1,5 @@
 # Cobalt Oxide theme for Typora
-A dark theme for Typora, a multi-platform Markdown Editor. Directly based on the [Cobalt Theme](https://github.com/elitistsnob/typora-cobalt-theme) created by [Kent Pribbernow](https://www.github.com/elitistsnob). Which in turn was inspired by Wes Bos's [Cobalt](https://www.github.com/wesbos) theme for Sublime.
+A dark theme for Typora, a multi-platform Markdown Editor. 
 
 **WARNING: THIS IS A WORK IN PROGRESS. USE AT YOUR OWN RISK!**
 
@@ -31,3 +31,11 @@ This version of the theme has the following changes:
 ![Splash screen](images/screenshot3.png)
 
 ![Splash screen](images/screenshot4.png)
+
+## Credits
+
+- Created by [Martin Nerurkar](http://www.martin.nerurkar.de)
+- This theme is directly based on the [Cobalt Theme](https://github.com/elitistsnob/typora-cobalt-theme) created by [Kent Pribbernow](https://www.github.com/elitistsnob). 
+- Which in turn was inspired by the [Cobalt](https://github.com/wesbos/cobalt2) Sublime Text Theme from [Wes Bos](https://github.com/wesbos)..
+- The Font used is [Nunito](https://fonts.google.com/specimen/Nunito) designed by Vernon Adams.
+- I've also taken some cues from the [Hivacruz Theme](https://github.com/kinoute/typora-hivacruz-theme) created by [Yann Defretin](https://github.com/kinoute).
