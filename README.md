@@ -3,6 +3,10 @@ A dark theme for Typora, a multi-platform Markdown Editor. Directly based on the
 
 **WARNING: THIS IS A WORK IN PROGRESS. USE AT YOUR OWN RISK!**
 
+![Latest Release Version](https://img.shields.io/github/v/release/democide/typora-cobalt-oxide-theme)
+![Latest Release Date](https://img.shields.io/github/release-date/democide/typora-cobalt-oxide-theme)
+![Download Count](https://img.shields.io/github/downloads/democide/typora-cobalt-oxide-theme/total)
+
 ## Changes to Cobalt
 This version of the theme has the following changes:
 
